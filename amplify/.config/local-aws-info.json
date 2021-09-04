@@ -1,0 +1,7 @@
+{
+  "dev": {
+    "configLevel": "project",
+    "useProfile": false,
+    "awsConfigFilePath": "/home/sundar/.amplify/awscloudformation/12mHQ4CcN0"
+  }
+}
